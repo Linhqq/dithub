@@ -32,7 +32,6 @@ if game:GetService("Players").LocalPlayer.PlayerGui.Main:FindFirstChild("ChooseT
     until game.Players.LocalPlayer.Team ~= nil and game:IsLoaded()
 end
 ----------------------------------------------------------------------------------------------------------------------------------------------
-local Window = Fluent:CreateWindow({
     Title = "Afxcaxi Hub",
     SubTitle = "Blox Fruit Script",
     TabWidth = 160,
